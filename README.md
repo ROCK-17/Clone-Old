@@ -22,7 +22,7 @@ pkg update
 
  pkg install git 
 
-git clone https://github.com/AbdullahDada420/Clone-old
+git clone https://github.com/rock-17/Clone-old
 
 ls
 
